@@ -3,5 +3,7 @@ name = "xlix"
 version = "0.0.0"
 edition = "2021"
 authors = ["FssAy"]
+description = "crate for the xlix.app service"
+license = "GPL-3.0-only"
 
 [dependencies]
